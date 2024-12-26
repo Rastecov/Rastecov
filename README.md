@@ -8,8 +8,10 @@
   </a>
 </p>
 
+---
+
 # 💫 About Me:
-<p align="justify">
+<p align="left">
 🌱 From a software engineering background, I am a passionate student currently pursuing a Bachelor's degree in Computer Science at the University of Pittsburgh.<br>
 💻 Skilled in programming languages such as Java, Python, C#, and the .NET framework.<br>
 🚀 Experienced in web development using HTML, CSS, and JavaScript.<br>
@@ -44,6 +46,12 @@
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
   </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40" />
+  </a>
   <!-- Add as many tech stack icons as needed -->
 </p>
 
@@ -51,17 +59,12 @@
 
 ## 📊 GitHub Stats:
 
-<!-- Most Used Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rastecov&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
-<!-- GitHub Overview Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rastecov&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
-<!-- GitHub Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rastecov&theme=tokyonight" alt="GitHub Streak" />
 </p>
