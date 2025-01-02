@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eraste Yacov</h1>
-<h3 align="center">A passionate college student majoring in Computer Science</h3>
+<h3 align="center">A passionate college student majoring in Computer Engineering and minoring in BioEngineering</h3>
 
 
 [![](https://visitcount.itsvg.in/api?id=Rastecov&icon=6&color=0)](https://visitcount.itsvg.in)
