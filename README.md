@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eraste Yacov</h1>
-<h3 align="center">A passionate college student majoring in Computer Engineering and minoring in BioEngineering</h3>
+<h3 align="center">A passionate college student majoring in Electrical Engineering and minoring in BioEngineering</h3>
 
 
 [![](https://visitcount.itsvg.in/api?id=Rastecov&icon=6&color=0)](https://visitcount.itsvg.in)
@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
- 🌱 From a software engineering background, I am a passionate student currently pursuing a Bachelor's degree in Computer Engineering at the University of Pittsburgh.<br>💻Skilled in programming languages such as Java, Python, C#, and the .NET framework.<br>🚀Experienced in web development using HTML, CSS, and JavaScript.<br>🔧Familiar with various software development tools and methodologies such as Git, Agile, and Scrum.<br>👨‍💻Interested in machine learning and artificial intelligence.<br>🔥Passionate about developing software that can make a positive impact on society.<br>💼Actively seeking internships or opportunities to apply my skills and gain real-world experience.<br>💡Strong problem-solving skills and ability to work in a team.<br>⚡Proficient in English, French, and a little bit of Spanish.<br>📫How to reach me: erastboko@gmail.com   
+ 🌱 From a software engineering background, I am a passionate student currently pursuing a Bachelor's degree in Electrical Engineering at the University of Pittsburgh.<br>💻Skilled in programming languages such as Java, Python, C#, and the .NET framework.<br>🚀Experienced in web development using HTML, CSS, and JavaScript.<br>🔧Familiar with various software development tools and methodologies such as Git, Agile, and Scrum.<br>👨‍💻Interested in machine learning and artificial intelligence.<br>🔥Passionate about developing software that can make a positive impact on society.<br>💼Actively seeking internships or opportunities to apply my skills and gain real-world experience.<br>💡Strong problem-solving skills and ability to work in a team.<br>⚡Proficient in English, French, and a little bit of Spanish.<br>📫How to reach me: erastboko@gmail.com   
 
 
 ## 🌐 Socials:
